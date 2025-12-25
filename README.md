@@ -231,11 +231,11 @@ An advanced version with **Real-Time Data Stream (RTDS)** monitoring is availabl
 - **Lower API Load**: More efficient data streaming architecture
 - **Superior Performance**: Enhanced copy trading capabilities
 
-<div align="center">
+<!-- <div align="center">
 
 <img width="680" height="313" alt="Version 2 RTDS Features" src="https://github.com/user-attachments/assets/d868f9f2-a1dd-4bfe-a76e-d8cbdfbd8497" />
 
-</div>
+</div> -->
 
 ---
 
