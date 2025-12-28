@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Automated copy trading bot for Polymarket that mirrors trades from top performers with intelligent position sizing and real-time execution.**
+**Automated copy trading (copytrading) bot for Polymarket that mirrors trades from top performers with intelligent position sizing and real-time execution.**
 
 [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
@@ -32,7 +32,7 @@
 
 ## 🎯 Overview
 
-The Polymarket Copy Trading Bot is an enterprise-grade automated trading solution that replicates trades from successful Polymarket traders directly to your wallet. The system provides continuous 24/7 monitoring, intelligent position sizing calculations, and real-time order execution with comprehensive trade tracking.
+The Polymarket  (copytrading) Bot is an enterprise-grade automated trading solution that replicates trades from successful Polymarket traders directly to your wallet. The system provides continuous 24/7 monitoring, intelligent position sizing calculations, and real-time order execution with comprehensive trade tracking.
 
 ### Key Capabilities
 
@@ -229,7 +229,7 @@ An advanced version with **Real-Time Data Stream (RTDS)** monitoring is availabl
 - **Fastest Trade Detection**: Near-instantaneous trade replication
 - **Reduced Latency**: Optimized for minimal execution delay
 - **Lower API Load**: More efficient data streaming architecture
-- **Superior Performance**: Enhanced copy trading capabilities
+- **Superior Performance**: Enhanced copy trading (copytrading) capabilities
 
 <!-- <div align="center">
 
